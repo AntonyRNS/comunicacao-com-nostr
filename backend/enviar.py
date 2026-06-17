@@ -3,7 +3,7 @@ import asyncio
 
 async def main():
     keys = Keys.generate()
-    SecretKey = "nsec1ek35as9jq0gfjhdm2ep47pzr3829mnhz7y3vdscgqul5nstq057q0t8qkp"
+    SecretKey = "suachave"
     PublicKey = "npub1g60puz8mme77f738xm0y25tc6ukjtlfxjz0h4y3379rm6ktpvasq2ucs6u"
     
     # pub_key = keys.public_key().to_hex()
